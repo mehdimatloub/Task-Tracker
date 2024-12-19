@@ -9,8 +9,8 @@ body {
   justify-content: center;
   height: 100vh;
   color: #333;
-  background-image: url('./assets/image.png'); /* Chemin correct pour une image dans le dossier public */
-  background-size: contain; /* Ajuste l'image pour qu'elle s'insère dans le conteneur */
+  background-image: url('./assets/image.png'); 
+  background-size: contain; 
   background-repeat: no-repeat;
   background-position: center center;
 }
@@ -86,15 +86,15 @@ header h1 {
 }
 
 button {
-  margin: 10px 0; /* Adds spacing between buttons */
-  padding: 15px 30px; /* Adjusts button size to match the template */
-  font-size: 16px; /* Matches the font size in the template */
-  border-radius: 8px; /* Smooths button edges */
+  margin: 10px 0; 
+  padding: 15px 30px; 
+  font-size: 16px; 
+  border-radius: 8px; 
 }
 
 button:hover {
-  background-color: #333; /* Darker shade for hover */
-  color: #fff; /* Ensure readability */
+  background-color: #333; 
+  color: #fff; 
 }
 
 
@@ -143,24 +143,24 @@ button:hover {
 
 img {
   display: block;
-  height: 40px; /* Keep consistent size */
+  height: 40px; 
     margin: 10px 0;
   max-width: 100%;
 }
 button.end-tasks {
-  width: 100%; /* Matches the container width */
+  width: 100%; 
   padding: 15px;
   font-size: 16px;
   border-radius: 8px;
 }
 .container {
-  width: 375px; /* Fixed mobile width */
+  width: 375px; 
   margin: 0 auto;
   padding: 20px;
   border-radius: 15px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
-/* Home Page */
+
 .home-container {
   display: flex;
   flex-direction: column;
@@ -187,7 +187,7 @@ button.end-tasks {
 .home-buttons {
   display: flex;
   flex-direction: column;
-  gap: 15px; /* Consistent spacing between buttons */
+  gap: 15px; 
 }
 
 .home-button {
@@ -196,7 +196,7 @@ button.end-tasks {
   border: none;
   border-radius: 8px;
   padding: 10px 20px;
-  font-size: 18px; /* Adjust to match template */
+  font-size: 18px; 
   cursor: pointer;
   transition: all 0.3s ease;
 }
@@ -204,7 +204,7 @@ button.end-tasks {
 .home-button:hover {
   background-color: #444;
 }
-/* Task List Page */
+
 .task-list-container {
   display: flex;
   flex-direction: column;
@@ -212,7 +212,7 @@ button.end-tasks {
   justify-content: center;
   text-align: left;
   width: 100%;
-  max-width: 375px; /* Match phone screen size */
+  max-width: 375px; 
   margin: auto;
   padding: 20px;
   background-color: white;
@@ -358,14 +358,14 @@ button.end-tasks {
 }
 h1, p {
   text-align: center;
-  line-height: 1.5; /* Better text readability */
+  line-height: 1.5;
 }
 @media (max-width: 600px) {
   .container {
-      width: 90%; /* Take up most of the screen for smaller devices */
+      width: 90%; 
   }
 
   button {
-      width: 100%; /* Full width buttons */
+      width: 100%;
   }
 }
