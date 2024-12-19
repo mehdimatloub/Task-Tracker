@@ -152,8 +152,8 @@ https://www.figma.com/design/vkhb39kx0jefHs689PiIqC/T%C3%A2ches---FREE%2C-Daily-
 | created_at   | Date    | Date de création              |
 | updated_at   | Date    | Date de modification          |
 
-voici l interface 
+### Les Interfaces 
 <img width="959" alt="Capture d’écran 2024-12-19 230625" src="https://github.com/user-attachments/assets/666038ad-1bba-458c-9bff-4a2c05feb803" />
 <img width="958" alt="Capture d’écran 2024-12-19 230644" src="https://github.com/user-attachments/assets/d003480e-1fee-4a4d-a035-f07b1ae39d48" />
-<img width="914" alt="Capture d’écran 2024-12-19 232712" src="https://github.com/user-attachments/assets/cf38d4bd-ab3d-40b2-87b3-0eaab7e436a0" />
+<img width="959" alt="Capture d’écran 2024-12-19 230714" src="https://github.com/user-attachments/assets/001c4238-de76-4a49-87b4-b11d052edd76" />
 
