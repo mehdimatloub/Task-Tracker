@@ -75,18 +75,9 @@ https://www.figma.com/design/vkhb39kx0jefHs689PiIqC/T%C3%A2ches---FREE%2C-Daily-
 
 ---
 
-## Contact
-- **Nom** : Votre Nom
-- **Email** : votre.email@example.com
-
----
-
 # Documentation Technique (Backend)
 
 ## Endpoints
-
-
-
 
 ### Tâches
 1. **Liste des tâches**
